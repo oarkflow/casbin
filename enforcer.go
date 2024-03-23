@@ -30,7 +30,7 @@ import (
 	defaultrolemanager "github.com/casbin/casbin/v2/rbac/default-role-manager"
 	"github.com/casbin/casbin/v2/util"
 
-	"github.com/casbin/govaluate"
+	"github.com/oarkflow/govaluate"
 )
 
 // Enforcer is the main interface for authorization enforcement and policy management.
